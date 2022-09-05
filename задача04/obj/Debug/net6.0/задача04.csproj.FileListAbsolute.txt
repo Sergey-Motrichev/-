@@ -1,0 +1,15 @@
+C:\Users\сергей\Desktop\СЕМ С#\задача04\bin\Debug\net6.0\задача04.exe
+C:\Users\сергей\Desktop\СЕМ С#\задача04\bin\Debug\net6.0\задача04.deps.json
+C:\Users\сергей\Desktop\СЕМ С#\задача04\bin\Debug\net6.0\задача04.runtimeconfig.json
+C:\Users\сергей\Desktop\СЕМ С#\задача04\bin\Debug\net6.0\задача04.dll
+C:\Users\сергей\Desktop\СЕМ С#\задача04\bin\Debug\net6.0\задача04.pdb
+C:\Users\сергей\Desktop\СЕМ С#\задача04\obj\Debug\net6.0\задача04.csproj.AssemblyReference.cache
+C:\Users\сергей\Desktop\СЕМ С#\задача04\obj\Debug\net6.0\задача04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\сергей\Desktop\СЕМ С#\задача04\obj\Debug\net6.0\задача04.AssemblyInfoInputs.cache
+C:\Users\сергей\Desktop\СЕМ С#\задача04\obj\Debug\net6.0\задача04.AssemblyInfo.cs
+C:\Users\сергей\Desktop\СЕМ С#\задача04\obj\Debug\net6.0\задача04.csproj.CoreCompileInputs.cache
+C:\Users\сергей\Desktop\СЕМ С#\задача04\obj\Debug\net6.0\задача04.dll
+C:\Users\сергей\Desktop\СЕМ С#\задача04\obj\Debug\net6.0\refint\задача04.dll
+C:\Users\сергей\Desktop\СЕМ С#\задача04\obj\Debug\net6.0\задача04.pdb
+C:\Users\сергей\Desktop\СЕМ С#\задача04\obj\Debug\net6.0\задача04.genruntimeconfig.cache
+C:\Users\сергей\Desktop\СЕМ С#\задача04\obj\Debug\net6.0\ref\задача04.dll
